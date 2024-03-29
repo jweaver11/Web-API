@@ -1,0 +1,24 @@
+C:\Users\weave\source\repos\Class API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\weave\source\repos\Class API\bin\Debug\net6.0\appsettings.json
+C:\Users\weave\source\repos\Class API\bin\Debug\net6.0\Class API.exe
+C:\Users\weave\source\repos\Class API\bin\Debug\net6.0\Class API.deps.json
+C:\Users\weave\source\repos\Class API\bin\Debug\net6.0\Class API.runtimeconfig.json
+C:\Users\weave\source\repos\Class API\bin\Debug\net6.0\Class API.dll
+C:\Users\weave\source\repos\Class API\bin\Debug\net6.0\Class API.pdb
+C:\Users\weave\source\repos\Class API\obj\Debug\net6.0\Class API.csproj.AssemblyReference.cache
+C:\Users\weave\source\repos\Class API\obj\Debug\net6.0\Class API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\weave\source\repos\Class API\obj\Debug\net6.0\Class API.AssemblyInfoInputs.cache
+C:\Users\weave\source\repos\Class API\obj\Debug\net6.0\Class API.AssemblyInfo.cs
+C:\Users\weave\source\repos\Class API\obj\Debug\net6.0\Class API.csproj.CoreCompileInputs.cache
+C:\Users\weave\source\repos\Class API\obj\Debug\net6.0\Class API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\weave\source\repos\Class API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\weave\source\repos\Class API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\weave\source\repos\Class API\obj\Debug\net6.0\scopedcss\bundle\Class API.styles.css
+C:\Users\weave\source\repos\Class API\obj\Debug\net6.0\Class API.dll
+C:\Users\weave\source\repos\Class API\obj\Debug\net6.0\refint\Class API.dll
+C:\Users\weave\source\repos\Class API\obj\Debug\net6.0\Class API.pdb
+C:\Users\weave\source\repos\Class API\obj\Debug\net6.0\Class API.genruntimeconfig.cache
+C:\Users\weave\source\repos\Class API\obj\Debug\net6.0\ref\Class API.dll
+C:\Users\weave\source\repos\Class API\bin\Debug\net6.0\Project1Library.dll
+C:\Users\weave\source\repos\Class API\bin\Debug\net6.0\Project1Library.pdb
+C:\Users\weave\source\repos\Class API\obj\Debug\net6.0\Class API.csproj.CopyComplete
